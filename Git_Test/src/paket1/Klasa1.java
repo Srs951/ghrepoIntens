@@ -7,6 +7,7 @@ public class Klasa1 {
 		System.out.println("Poruka 1");
 		System.out.println("Poruka 2");
 		System.out.println("poruka Zlatko");
+		System.out.println("poruka Zlatko 2");
 	}
 
 }
