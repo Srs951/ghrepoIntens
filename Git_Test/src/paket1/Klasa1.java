@@ -6,7 +6,11 @@ public class Klasa1 {
 		// TODO Auto-generated method stub
 		System.out.println("Poruka 1");
 		System.out.println("Poruka 2");
+
 		System.out.println("Poruka Srdjan K.");
+
+		System.out.println("poruka Zlatko");
+
 	}
 
 }
